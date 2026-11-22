@@ -1,0 +1,6 @@
+<resources>
+    <color name="purple_primary">#FF6750A4</color>
+    <color name="green_success">#FF4CAF50</color>
+    <color name="red_error">#FFE53935</color>
+    <color name="board_dark">#FF1A1A2E</color>
+</resources>
